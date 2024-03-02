@@ -1,0 +1,6 @@
+redis:
+  host: redis-12632.c56.east-us.azure.cloud.redislabs.com
+  db: 0
+  user: default
+  password: eeMmpQcaI2tiLw9CtlI9TA3di2BHobwm
+  port: 12632
